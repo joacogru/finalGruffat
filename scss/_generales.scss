@@ -1,0 +1,23 @@
+
+
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+
+@media (min-width: 768px) {
+    .infoSocio {
+        width: 60%;
+    }
+}
+
+.nav-item {
+    &:hover {
+        
+        border-radius: 15%;
+        color:rgb(75, 70, 70);
+    
+    }
+}
