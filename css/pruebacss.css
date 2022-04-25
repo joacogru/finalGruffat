@@ -7,6 +7,15 @@ body::before {
   .infoSocio {
     width: 60%; } }
 
+body::before {
+  display: block;
+  content: '';
+  height: 60px; }
+
+@media (min-width: 768px) {
+  .infoSocio {
+    width: 60%; } }
+
 .nav-item:hover {
   border-radius: 15%;
   color: #4b4646; }
