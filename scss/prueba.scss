@@ -1,16 +1,5 @@
-body::before {
-    display: block;
-    content: '';
-    height: 60px;
-}
-
-
-@media (min-width: 768px) {
-    .infoSocio {
-        width: 60%;
-    }
-}
-
 @import 'generales';
 @import 'news';
+@import "../node_modules/bootstrap/scss/bootstrap";
+
 
