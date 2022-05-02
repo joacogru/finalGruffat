@@ -1,4 +1,8 @@
-$success: rgb(241, 128, 147);
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
 
 body::before {
     display: block;
