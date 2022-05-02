@@ -1,3 +1,9 @@
+.navbar-brand {
+    &:hover {
+        transform:scale(1.1);
+        }
+}
+
 li:hover {
     background-color: #093028;
 }
