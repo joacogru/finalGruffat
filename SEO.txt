@@ -1,0 +1,5 @@
+-Meta description
+-Meta KeyWords (aunque quedó claro que google no las toma en cuenta hoy en día)
+-Titulo mas especifico a cada html. ej:  "San Nicolas Golf Club - Inicio"
+-Links Internos
+-Algun /strong /m al index
