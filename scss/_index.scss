@@ -11,3 +11,10 @@
     background: linear-gradient(to right, #2C7744, #5A3F37); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
+
+@media (max-width: 540px) {
+    span.textoBlanco, h4.textoBlanco {
+        color: white !important;
+        text-decoration: underline;
+    }
+}
